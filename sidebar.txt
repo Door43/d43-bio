@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bio:home|Door43 (bio)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bio|d43-bio repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bio/archive/master.zip|d43-bio.zip]]
+
+**Recent Changes**
+{{changes>ns = bio}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bio|Ethnologue data]]
+
